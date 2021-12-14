@@ -507,6 +507,7 @@ kata_containers_binary_checksums:
     2.0.4: 0
     2.1.1: 0
     2.2.2: 0
+    2.2.3: 0
     2.3.0: 0
 
 gvisor_runsc_binary_checksums:
